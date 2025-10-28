@@ -1,1 +1,1 @@
-console.log("main change");
+console.log("main change main.js content");
